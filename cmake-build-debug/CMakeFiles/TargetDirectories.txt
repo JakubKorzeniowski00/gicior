@@ -1,0 +1,3 @@
+C:/Users/kkorz/CLionProjects/gicior/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kkorz/CLionProjects/gicior/cmake-build-debug/CMakeFiles/gicior.dir
+C:/Users/kkorz/CLionProjects/gicior/cmake-build-debug/CMakeFiles/rebuild_cache.dir
